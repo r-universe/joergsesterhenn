@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/joergsesterhenn/joergsesterhenn.r-universe.dev
 	branch = HEAD
+[submodule "medacoPlot"]
+	path = medacoPlot
+	url = https://github.com/joergsesterhenn/medaco-plot
